@@ -1,2 +1,1 @@
-# Teste_Appium
-teste
+# Exercício Git Treinamento Accenture
